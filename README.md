@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Carlos Forriol</h1>
 <h3 align="center">A dev eager to learn</h3>
-img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif?cid=ecf05e477llhjyrfiz64fx76v7z02iekdu92zpxaf4rdmmgp&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosforriol&label=Profile%20views&color=0e75b6&style=flat" alt="carlosforriol" /> </p>
 
