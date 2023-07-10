@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosforriol&label=Profile%20views&color=0e75b6&style=flat" alt="carlosforriol" /> </p>
 
-- 🔭 I’m currently working on **Linkedin Project**
+- 🔭 I’m currently working on **Linkedln Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
